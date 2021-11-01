@@ -10,7 +10,9 @@ Author: Sana Ishaqat
 
 [back-end (heroku /person and name query )](https://sana-basic-express-server-02.herokuapp.com/person?name=sana)
 
-[PR Link](https://github.com/SanaIshaqat/server-deployment-practice/pull/4)
+[PR Link](https://github.com/SanaIshaqat/basic-express-server/pull/2)
+
+*most work was done directly on the main by accident*
 
 ### Setup
 .env requirements
