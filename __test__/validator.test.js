@@ -11,7 +11,12 @@ describe('Validator Test', () => {
     const response = await mockRequest.get('/person?name=sana');
     expect(response.status).toBe(200);
   });
-  
+   // Check if /person endpoint works name value equal to existing query
+  test('/person 200 if the name value matches query string', async () => {
+    const response = await mockRequest.get('/person?name=sana');
+    expect(response.body.name).toEqual('sana');
+
+  });
 
   // Check if validator found name key
 
