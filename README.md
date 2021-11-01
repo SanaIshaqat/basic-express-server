@@ -4,9 +4,11 @@
 ### Deployment Test with Validator and Logger
 Author: Sana Ishaqat
 
-[tests report (actions)]()
+[tests report (actions)](https://github.com/SanaIshaqat/basic-express-server/actions)
 
-[back-end (heroku)](https://sanaishaqat-server-deploy-prod.herokuapp.com/status)
+[back-end (heroku proof of life)](https://sana-basic-express-server-02.herokuapp.com/alive)
+
+[back-end (heroku /person and name query )](https://sana-basic-express-server-02.herokuapp.com/person?name=sana)
 
 [PR Link](https://github.com/SanaIshaqat/server-deployment-practice/pull/4)
 
